@@ -1,7 +1,7 @@
-package com.fullstackvox.citiesapi;
+package com.fullstackvox.citiesapi.countries;
 
 import com.fullstackvox.citiesapi.countries.Country;
-import com.fullstackvox.citiesapi.repository.CountryRepository;
+import com.fullstackvox.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.fullstackvox.citiesapi.repository;
+package com.fullstackvox.citiesapi.countries.repository;
 
 import com.fullstackvox.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
