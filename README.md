@@ -1,7 +1,3 @@
-<img src="./frontend/src/assets/img/dashboard-min.png" width="100%">
-
-
-
 # Boot Camp everys Quality Assurance Beginner
 
 *Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção*
