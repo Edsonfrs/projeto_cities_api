@@ -1,4 +1,4 @@
-# Boot Camp everys Quality Assurance Beginner
+# Boot Camp: everys Quality Assurance Beginner
 
 *Construindo uma API Rest de consulta de cidades do Brasil do zero até a produção*
 
@@ -13,7 +13,7 @@ Objetivo: Desenvolver uma API Rest para cálculo de distância entre cidades.
 * Java 11
 * Spring Boot
 * JPA / Hibernate
-* Maven
+* Grandle
 * Docker
 * Banco de Dados Postgres  (Ambiente de desenvolvimento e produção)
 
@@ -25,9 +25,10 @@ Objetivo: Desenvolver uma API Rest para cálculo de distância entre cidades.
 
 ## Entidade
 
-Digital Inovation one 
+Digital Inovation one(https://digitalinnovation.one/)
 
-Boot Camp everys Quality Assurance Beginner - [DIO](https://digitalinnovation.one/sign-up?ref=8EJE9QGVQT)
+Boot Camp: everys Quality Assurance Beginner - 
+
 
 
 # Autor
